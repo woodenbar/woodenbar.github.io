@@ -11,17 +11,17 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to Wooden Bar
     text: It's Nice To Meet You
-    button: Tell Me More
+    button: Welcome
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "About Us"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "A bar in Worcester Mass with good food and drinks"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: "Menu"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "508 556 0535"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
